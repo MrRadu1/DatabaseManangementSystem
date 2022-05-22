@@ -1,0 +1,6 @@
+Order : 1
+Name : Radu
+Product : examen
+Quantity : 1
+Final price : 10
+
